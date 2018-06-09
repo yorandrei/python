@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+test/
+books/
+ml_udacity/venv/
+*.epub
+*.pdf
+*.idea*
+ml_udacity/.idea/

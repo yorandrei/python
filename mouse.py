@@ -6,7 +6,8 @@ import usb.util
 #dev = usb.core.find(idVendor=1118, idProduct=1917)
 # or, uncomment the next line to search instead by the hexidecimal equivalent
 #dev = usb.core.find(idVendor=0x45e, idProduct=0x77d)
-dev = usb.core.find(idVendor=0x3938, idProduct=0x1032)
+#dev = usb.core.find(idVendor=0x3938, idProduct=0x1032)
+dev = usb.core.find(idVendor=0x046d, idProduct=0xc52b)
 # or, in decimal:
 #dev = usb.core.find(idVendor=14648, idProduct=4146)
 # first endpoint
