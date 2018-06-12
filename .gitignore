@@ -7,3 +7,6 @@ ml_udacity/venv/
 *.pdf
 *.idea*
 ml_udacity/.idea/
+*.zip
+Subtitles/
+*Subtitles/
